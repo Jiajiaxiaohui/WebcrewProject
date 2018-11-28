@@ -1,16 +1,4 @@
-.container {
-  width:100%;
-  display: inline-block;
-}
-.imageLeft {
-  width:49%;
-  float:left;
-}
-.imageLeft img {
-  width: 100%;
-}
-.textRight {
-  width:50%;
-  float: left;
-  backround color:red;
+body {
+   background-image: url("paper.gif");
+   background-blend-mode: lighten
 }
