@@ -1,0 +1,26 @@
+body {
+   background-image: url("../images/universe background.jpg");
+   background-size:cover;
+   vertical-align: middle;
+}
+
+#container {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+.introduction {
+  background-color: blue;
+}
+
+.introduction h1 {
+  color: green;
+}
+
+.button {
+  text-align: center;
+}
+
+.introduction p {
+  color: yellow;
+}
