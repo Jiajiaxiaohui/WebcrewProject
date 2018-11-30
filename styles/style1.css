@@ -20,14 +20,8 @@ body {
 .introduction h1 {
   color: #ffffff;
 }
+.introduction p {color:#ffffff;}
 
 .button {
   text-align: center;
-  color: #ffffff;
-
-
-}
-
-.introduction p {
-  color: #ffffff;
-}
+  color: #ffffff;}
