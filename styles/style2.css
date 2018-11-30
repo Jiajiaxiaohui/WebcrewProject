@@ -33,3 +33,13 @@ body {
   min-width: 100%;
   height: 500px;
 }
+
+.Planets {text-align: center;}
+
+.show_more_button {display: block;
+background-color: #ffffff;
+border: 2px solid black;
+color: black;
+height:44px;
+width:65%;
+margin:auto;}
