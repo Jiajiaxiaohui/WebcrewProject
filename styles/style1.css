@@ -15,6 +15,16 @@ body {
   border-style: groove;
   border-color: grey;
   text-align: center;
+  margin-top: 5%;
+  margin-left: 50%;
+  width: 350px;
+  transform: translateX(-50%);
+}
+
+@media (min-width: 420px) {
+  .introduction {
+    width: 500px;
+  }
 }
 
 .introduction h1 {
